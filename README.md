@@ -8,5 +8,5 @@ Below you will find links to the separate branches (all building off of each oth
 
 Each branch will have a text file (README etc.) detailing my opinions of the lesson's content and my thought process (with screenshots) when completing the work.
 
-**_Disclaimer_**
+**_Disclaimer_**  
 This repository is 100% unofficial and all views/opinions do not necessarily reflect the views of any of the other course instructors or the wider CF:G organisation.
