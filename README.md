@@ -16,7 +16,7 @@ With any luck you will already be using Google Chrome. However another modern br
 If you do want to install it simply head over [here](https://www.google.com/chrome/browser/desktop/index.html "Google Chrome Download").
 
 ## Installing a Text Editor
-Any text editor will work (notepad etc.) however I would recommend the free version of Sublime text 3 in conjunction with the Emmet plugin.
+Any text editor will work (Notepad, Notepad++, Atom etc.) however I would recommend the free version of Sublime text 3 in conjunction with the Emmet plugin.
 
 Links to both items can be found [here](https://www.sublimetext.com/3 "Sublime Text Download") and [here](https://github.com/sergeche/emmet-sublime/archive/master.zip "Emmet Download") respectively.
 
@@ -29,6 +29,8 @@ To highlight different options simply use `up` or `down` `arrow keys`.
 
 To finish off the installation of Sublime Text, navigate to **Preferences -> Key Bindings** and paste `{"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}}` in to the right-hand window.
 This allows for auto-indentation (I'll talk about this at greater lengths later on) which will make any html produced much more readable simply by pressung `Alt + Shift + f`.
+
+_Note:_ If you're following the CF:G guide and decie to use [Atom](https://atom.io/ "Atom"), an easy to install package for code indentation can be found [here](https://atom.io/packages/atom-beautify "Atom Beautify").
 
 ## Installing a GitHub Desktop Client
 Later on in the course we will start using GitHub so it's a good idea to have everything prepaired in advance.
