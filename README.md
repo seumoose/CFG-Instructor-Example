@@ -1,10 +1,16 @@
-# Session 0 - Pre-Course Preparation
-Welcome to the CF:G Brunel course!
-This branch will be a short run-through of the preparation material that was (hopefully) sent out around the time you were all notified of your successful applications.
+# Session 1 - Getting Started and HTML
+Within this branch I'll be briefly discussing the slides and going over the homework set at the end of session 1.
 
-## Creating a GitHub Account
-Hopefully if you're reading this you'll already have a GitHub account.
-If not, you can easily sign up [here](https://github.com/ "GitHub Home").
+## The slides
+##### _Basics of a website_
+A website is constructed using HTML (HyperText Markup Language) which describes the structure of the page, CSS (Cascading Style Sheets) which describes the presentation of the page and optionally JS (JavaScript) which allows for user interactivity (making the website more dynamic).
+
+Each page in the website is a seperate file and is defined in the URL as the final element e.g. 'http://www.examplewebsite.com/pages/ **first_page**
+
+In brief: websites are a collection of pages (files) that linked together with various stylings applied to them to create a better user experience.
+
+##### _Folder Structure is Important!_
+
 
 ##### _What is GitHub?_
 GitHub is a widely used repository and version control service used by small start-ups all the way to large global conglomerates.
@@ -30,7 +36,9 @@ To highlight different options simply use `up` or `down` `arrow keys`.
 To finish off the installation of Sublime Text, navigate to **Preferences -> Key Bindings** and paste `{"keys": ["alt+shift+f"], "command": "reindent", "args": {"single_line": false}}` in to the right-hand window.
 This allows for auto-indentation (I'll talk about this at greater lengths later on) which will make any html produced much more readable simply by pressung `Alt + Shift + f`.
 
-_Note:_ If you're following the CF:G guide and decie to use [Atom](https://atom.io/ "Atom"), an easy to install package for code indentation can be found [here](https://atom.io/packages/atom-beautify "Atom Beautify").
+_Optional_: You can also paste in the following codes in the key bindings section to make the tabs behave in the same way modern browsers work (i.e. move forwards and backwards by pressing `ctrl + tab` and `ctrl + shift + tab` respectively) - `{"keys": ["ctrl+tab"], "command": "next_view" },` and `{"keys": ["ctrl+shift+tab"], "command": "prev_view" }`.
+
+_Note_: If you're following the CF:G guide and decie to use [Atom](https://atom.io/ "Atom"), an easy to install package for code indentation can be found [here](https://atom.io/packages/atom-beautify "Atom Beautify").
 
 ## Installing a GitHub Desktop Client
 Later on in the course we will start using GitHub so it's a good idea to have everything prepaired in advance.
