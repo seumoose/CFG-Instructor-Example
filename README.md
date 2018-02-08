@@ -27,4 +27,4 @@ Hopefully this exercise will have been fairly straightforward. Ultimately you ar
 
 If you're unsure what certain tags do, [w3schools](https://www.w3schools.com/tags/default.asp "HTML Tags") provide some great resources.
 
-I had a shot at the homework myself, please see notes.html for my solution.
+I had a shot at the homework myself, please see [notes.html](https://github.com/seumoose/CFG-Instructor-Example/blob/Week-1---Getting-Started-and-HTML/html/notes.html "Notes Solution") for my solution.
