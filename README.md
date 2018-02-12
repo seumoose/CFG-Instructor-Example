@@ -22,9 +22,33 @@ Each element has an opening and closing section. Some elements are structured wi
 Elements can have associated attributes e.g. `<div style="color: red;"></div>`.
 To make HTML easier to read we usually indent the various elements by pressing the `tab` key showing the parent/child hierarchy.
 
+
+
+
+During the lesson, a few of you asked what the point of the `type="text/css"` actually does in the link tag. `.
+.
+.
+.
+.
+.`
+
+
+
 # Homework
-Hopefully this exercise will have been fairly straightforward. Ultimately you are just being asked to substitute the content provided with HTML tags.
+This exercise is an extension of the work set in Week 1. The premise of it once again asks you to modify some given content so that it looks like the solution image. The main purpose of this exercise is to show off some the various CSS selectors you can use (for a full list of CSS selectors please find the reference material [here](https://www.w3schools.com/cssref/css_selectors.asp "CSS Selectors")).
 
-If you're unsure what certain tags do, [w3schools](https://www.w3schools.com/tags/default.asp "HTML Tags") provide some great resources.
+Your CSS may or may not look completely different to the one I have provided
 
-I had a shot at the homework myself, please see [notes.html](https://github.com/seumoose/CFG-Instructor-Example/blob/Week-1---Getting-Started-and-HTML/html/notes.html "Notes Solution") for my solution.
+
+
+
+
+_Note_:
+When looking at the example solutions, you might notice that the `html`, `head` and `body` tags are all aligned on the same line. This is due to the way my text editor auto-indents and is the general accepted way of indentation. If you'd like to read up on why this is the case Scott Granneman provides a thorough but concise explanation [here](https://www.granneman.com/webdev/coding/formatting-and-indenting-your-html/#what-about-the-basic-structure "HTML Indentation")
+
+Both of the next two CSS selectors do exactly the same thing,
+however the former is using a specific CSS selector property while the 
+latter uses a classe assigned in the html.
+
+There are multiple ways to achieve the same thing!
+A list of all the CSS selectors can be found here: https://www.w3schools.com/cssref/css_selectors.asp

@@ -1,0 +1,49 @@
+ul.nav li {
+	display: inline-block;
+	padding-right: 10px;
+	background-color: red;
+}
+
+ul.nav li a {
+	color: white;
+}
+
+.color-info {
+	border: solid;
+	border-width: 3px;
+	border-color: black;
+}
+
+.color-info li:last-child {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+/*
+#about_blue li:last-child, #about_yellow li:last-child {
+	font-weight: bold;
+	font-size: 16px;
+}
+
+.important {
+	font-weight: bold;
+	font-size: 16px;
+}
+*/
+
+#about_blue {
+	background-color: #6495ED;
+}
+
+#about_blue ul li {
+	color: blue;
+}
+
+
+#about_yellow {
+	background-color: #FFEBCD;
+}
+
+#about_yellow ul li {
+	color: orange;
+}
