@@ -1,5 +1,5 @@
 # Session 1 - Getting Started and HTML
-##### _Basics of a website_
+##### _Basics of a Website_
 A website is constructed using HTML (HyperText Markup Language) which describes the structure of the page, CSS (Cascading Style Sheets) which describes the presentation of the page and optionally JS (JavaScript) which allows for user interactivity (making the website more dynamic).
 
 Each page in the website is a separate file and is defined in the URL as the final element e.g. 'examplewebsite/pages/first_page'
