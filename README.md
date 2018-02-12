@@ -1,7 +1,4 @@
 # Session 1 - Getting Started and HTML
-Within this branch I'll be briefly discussing the slides and going over the homework set at the end of session 1.
-
-## The slides
 ##### _Basics of a website_
 A website is constructed using HTML (HyperText Markup Language) which describes the structure of the page, CSS (Cascading Style Sheets) which describes the presentation of the page and optionally JS (JavaScript) which allows for user interactivity (making the website more dynamic).
 
