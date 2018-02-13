@@ -1,4 +1,4 @@
-# Session 1 - CSS
+# Session 2 - CSS
 ### _CSS Recap_
 CSS (Cascading Style Sheet) adds styling to your html structure.
 Styles can be applied in a number of ways, however they all follow `property: value` pattern.
