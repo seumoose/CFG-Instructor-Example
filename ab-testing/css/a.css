@@ -1,0 +1,14 @@
+.demo-card-wide {
+    margin: 4%;
+}
+.demo-card-wide > .mdl-card__title {
+  color: #fff;
+  height: 176px;
+  background: url('../images/determinedgirl.jpg') center / cover;
+}
+.mdl-card__title-text {
+    margin-left: 55% !important;
+}
+.demo-card-wide > .mdl-card__menu {
+  color: #fff;
+}
