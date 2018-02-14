@@ -1,12 +1,25 @@
-# CFG-Instructor-Example
-Repository intended to help with teaching the CF:G beginners course at Brunel University Spring 2018.
+# Session 3 - UX
 
+![Image for UX Research Techniques](https://cdn-images-1.medium.com/max/1600/1*6Tf04XcY8lrecPdOJ7KC0Q.png)
 
-## What is this?
-This repository is intended so show example work and how you might use various aspects of web design at the current teaching stage.
-Below you will find links to the separate branches demonstrating what I did for that week's work.
+12 UX Research Techniques
+https://medium.com/ux-design-web-mobile-virtual-reality/12-ux-research-techniques-quantitative-and-qualitative-1a37bcb1914e
 
-Each branch will have a text file (README) detailing (in my opinion) the key notes for that lesson and my thought process etc. when completing the work.
+10 Userability Heuristics for UI
+https://www.nngroup.com/articles/ten-usability-heuristics/
+
+## Google Analytics 101
+
+GA Demo Account:
+https://support.google.com/analytics/answer/6367342?hl=en
+
+GA Academy:
+https://analytics.google.com/analytics/academy/
+
+## A/B Testing
+
+GA Experiments:
+https://support.google.com/analytics/answer/1745147?hl=en
 
 **_Disclaimer_**  
 This repository is 100% unofficial and in no way is affiliated with any of the other course instructors or the wider Code First: Girls organisation.
