@@ -8,18 +8,20 @@ Each property: value pair must end with a semicolon (;).
 ### _Applying CSS_
 There are three ways CSS can be written: inline styling, internal and external style sheets.
 
-##### _Inline_:
+#### _Inline_:
 Inline styling is applied directly to the element by using the `style` property e.g. `<div style="color: red;"></div>`.
 
-##### _Internal Style Sheet_:
+#### _Internal Style Sheet_:
 Internal style sheets are initialised in the `<style></style>` tags within the document's <head>. Internal style sheets allow for better readability as the CSS can be broken into lines: 
-`<head>
+```css
+<head>
 	<style>
 		h1 {
 			color: red;
 		}
 	</style>
-</head>`
+</head>
+```
 
 With this method, entire elements (h1, h2, div) can be selected and have styles applied to them. It is also possible to create your own custom classes and Ids (I'll come back to these in a bit) for a fuly customised webpage.
 
@@ -27,18 +29,18 @@ _Note_:
 
 With html5 the `<style></style>` tags have a `scoped` attribute which allows styles such as media queries to be applied 'inline'- however this is only currently supported in Firefox.
 
-##### _External Style Sheet_:
+#### _External Style Sheet_:
 The final way (and the way you should probably be using the most) is by using an external CSS file which is then linked to the html document.
 Just like with the internal style sheet, whole elements and custom classes / Ids are selectable.
 
 To select the appropriate CSS file, you must know the file location and the path to the file either from the current html file or from the root (main) folder of the website.
 
-##### _Absolute Links_:
+#### _Absolute Links_:
 An absolute link notes the full path from the root folder.
 In my case, if I wanted to link the CSS file 'exercise1.css' by an absolute path, I would use `D:/Work/GitHub/CFG-Instructor-Example/css/exercise1.css`. Starting at my D drive, the file path works it's way up to the CSS file in a logical progression. This is equivalent to putting in a website's URL and following the file path along until the CSS file is reached.
 
 
-##### _Relative Links_:
+#### _Relative Links_:
 There are two types of links: root-relative and document-relative.
 
 A root relative link starts at the ultimate root of the file structure. Taking the same example as before, I could link to exercise1.css with `/Work/GitHub/CFG-Instructor-Example/css/exercise1.css`.
@@ -69,8 +71,8 @@ The main difference between class and id selectors is that an id can only be use
 The main difference for me is that ids allowed user to be instantly scrolled to a specific part of the page.
 
 ### _Note_
-During the lesson, a few of you asked what the point of the `type="text/css"` actually does in the link tag. 
-
+During the lesson, a few of you asked what the point of the `type="text/css"` actually does in the link tag.
+This just defines the media type that is being linked to the document - while this is not in the html5 specification, it is usually a good idea to include 'redundancy' just in case of compatibility issues with different browsers etc.
 
 # Homework
 This exercise is an extension of the work set in Week 1. The premise of it once again asks you to modify some given content so that it looks like the solution image. The main purpose of this exercise is to show off some the various CSS selectors you can use (for a full list of CSS selectors please find the reference material [here](https://www.w3schools.com/cssref/css_selectors.asp "CSS Selectors")).
