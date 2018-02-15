@@ -13,7 +13,7 @@ Below you will find links to the separate branches demonstrating what I did for 
 
 ### [Week 3 UX](https://github.com/seumoose/CFG-Instructor-Example/tree/Week-3-UX)
 
-Each branch will have a text file (README) detailing (in my opinion) the key notes for that lesson and my thought process etc. when completing the work.
+Each branch will have a text file (README) detailing the key notes from the CFG slides and my thought process when completing the work.
 
 **_Disclaimer_**  
 This repository is 100% unofficial and in no way is affiliated with any of the other course instructors or the wider Code First: Girls organisation.
