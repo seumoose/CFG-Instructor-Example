@@ -1,12 +1,12 @@
 # Session 1 - Getting Started and HTML
-##### _Basics of a Website_
+#### _Basics of a Website_
 A website is constructed using HTML (HyperText Markup Language) which describes the structure of the page, CSS (Cascading Style Sheets) which describes the presentation of the page and optionally JS (JavaScript) which allows for user interactivity (making the website more dynamic).
 
 Each page in the website is a separate file and is defined in the URL as the final element e.g. 'examplewebsite/pages/first_page'
 
 In brief: websites are a collection of pages (files) that linked together with various stylings applied to them to create a better user experience.
 
-##### _Folder Structure is Important!_
+#### _Folder Structure is Important!_
 Keeping the file structure simple and easy to understand is not only important because it keeps everything organised, but it also makes the website more understandable/readable for anyone charged with mandating/updating the website.
 
 Example folders you might have in your website could include:
