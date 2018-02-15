@@ -22,6 +22,3 @@ Example: https://dtylam.github.io/ab-testing
 
 More on GA Experiments:
 https://support.google.com/analytics/answer/1745147?hl=en
-
-**_Disclaimer_**  
-This repository is 100% unofficial and in no way is affiliated with any of the other course instructors or the wider Code First: Girls organisation.
