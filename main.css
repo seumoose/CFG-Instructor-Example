@@ -22,6 +22,7 @@ blockquote {
   color: #ddd;
   padding-bottom: 40px;
 }
+
 .jumbotron .form-group {
   line-height: 1em;
 }
@@ -29,9 +30,11 @@ blockquote {
 .jumbotron label {
   color: white;
 }
+
 .jumbotron img {
   margin-top: 50px;
 }
+
 h2 {
   margin-bottom: 1.5em;
 }
@@ -43,6 +46,11 @@ h2 {
 .form-inline input[name='email'] {
   width: 80%;
 }
+
+input[name='email'] {
+  width: 80%;
+}
+
 #social-buttons {
   margin-top: 50px;
 }
