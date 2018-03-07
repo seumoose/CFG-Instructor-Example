@@ -15,6 +15,10 @@ Below you will find links to the separate branches demonstrating what I did for 
 
 ### [Week 4 Version Control](https://github.com/seumoose/CFG-Instructor-Example/tree/Week-4-Version-Control)
 
+### [Week 5 Bootstrap](https://github.com/seumoose/CFG-Instructor-Example/tree/Week-5-Bootstrap)
+
+### [Week 6 JavaScript](https://github.com/seumoose/CFG-Instructor-Example/tree/Week-6-JavaScript)
+
 Each branch will have a text file (README) detailing the key notes from the CFG slides and my thought process when completing the work.
 
 **_Disclaimer_**  
