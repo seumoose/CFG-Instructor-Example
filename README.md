@@ -30,7 +30,8 @@ More specifically, the Brunel 2018 Spring team has:
 | Instructor    | Instructor        | Instructor   | Ambassador    |
 | ------------- | -------------     |------------- | ------------- |
 | @seumoose     | @dtylam           |              |               |
-| Seumas Goddard| Donald Tsz Yiu Lam|Titilayo Belo  | Maria Vasquez Caroprese  |
+|![Head Image](../master/img/s.jpeg)|![Head Image](../master/img/d.jpeg)|    |![Head Image](../master/img/m.jpeg)|
+| Seumas Goddard | Donald Tsz Yiu Lam | Titilayo Belo  | Maria Vasquez Caroprese  |
 |[LinkedIn](https://www.linkedin.com/in/seumas-goddard/)|[LinkedIn](https://www.linkedin.com/in/dtylam/)|    |[LinkedIn](https://www.linkedin.com/in/maria-vasquez-caroprese-27899aba/)|
 |seumas10@gmail.com|dlamty@gmail.com|1540795@brunel.ac.uk|1315531@my.brunel.ac.uk|
 
