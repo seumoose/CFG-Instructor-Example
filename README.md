@@ -1,5 +1,5 @@
 # CFG-Instructor-Example
-Repository intended to help with teaching the CF:G beginners course at Brunel University Spring 2018.
+Repository intended to help with teaching the CF:G beginners course at [Brunel University](https://www.brunel.ac.uk/) Spring 2018.
 
 ## What is this?
 This repository is intended so show example work and how you might use various aspects of web design at the current teaching stage.
@@ -19,7 +19,7 @@ Below you will find links to the separate branches demonstrating what the instru
 
 ### [Week 6 JavaScript](https://github.com/seumoose/CFG-Instructor-Example/tree/Week-6-JavaScript)
 
-Each branch will have a text file (README) detailing the key notes from the CFG slides and my thought process when completing the work.
+Each branch will have a text file (README) detailing the key notes from the CFG slides and the instructor's thought processes when completing the work.
 
 ## Who are we?
 [Code First Girls](https://www.codefirstgirls.org.uk/) is a social enterprise that deliver coding education to women in the UK.
@@ -27,13 +27,13 @@ This is part of their free university-based community curriculum.
 
 More specifically, the Brunel 2018 Spring team has:
 
-| Instructor    | Instructor        | Instructor   | Ambassador    |
-| ------------- | -------------     |------------- | ------------- |
-| @seumoose     | @dtylam           |              |               |
+| Instructor | Instructor | Instructor | Ambassador |
+| ------------- | ------------- | ------------- | ------------- |
+| [@seumoose](https://github.com/seumoose) | [@dtylam](https://github.com/dtylam) |     |     |
 |<img src="../master/img/s.jpeg" width="128">|<img src="../master/img/d.jpeg" width="128">|    |<img src="../master/img/m.jpeg" width="128">|
 | Seumas Goddard | Donald Tsz Yiu Lam | Titilayo Belo  | Maria Vasquez Caroprese  |
 |[LinkedIn](https://www.linkedin.com/in/seumas-goddard/)|[LinkedIn](https://www.linkedin.com/in/dtylam/)|    |[LinkedIn](https://www.linkedin.com/in/maria-vasquez-caroprese-27899aba/)|
-|seumas10@gmail.com|dlamty@gmail.com|1540795@brunel.ac.uk|1315531@my.brunel.ac.uk|
+|seumas10@gmail.com|dlamty@gmail.com|1540795@brunel.ac.uk|1315531@brunel.ac.uk|
 
 You can also contact the Brunel CFG team at codefirstgirlsbrunel@gmail.com
 
