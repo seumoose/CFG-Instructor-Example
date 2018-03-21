@@ -30,11 +30,10 @@ More specifically, the Brunel 2018 Spring team has:
 | Instructor    | Instructor        | Instructor   | Ambassador    |
 | ------------- | -------------     |------------- | ------------- |
 | @seumoose     | @dtylam           |              |               |
-|![Head Image](../master/img/s.jpeg)<!-- .element width="128px" -->|![Head Image](../master/img/d.jpeg)<!-- .element width="128px" -->|    |![Head Image](../master/img/m.jpeg)<!-- .element width="128px" -->|
+|<img src="../master/img/s.jpeg" width="128">|<img src="../master/img/d.jpeg" width="128">|    |<img src="../master/img/m.jpeg" width="128">|
 | Seumas Goddard | Donald Tsz Yiu Lam | Titilayo Belo  | Maria Vasquez Caroprese  |
 |[LinkedIn](https://www.linkedin.com/in/seumas-goddard/)|[LinkedIn](https://www.linkedin.com/in/dtylam/)|    |[LinkedIn](https://www.linkedin.com/in/maria-vasquez-caroprese-27899aba/)|
 |seumas10@gmail.com|dlamty@gmail.com|1540795@brunel.ac.uk|1315531@my.brunel.ac.uk|
-
 
 You can also contact the Brunel CFG team at codefirstgirlsbrunel@gmail.com
 
